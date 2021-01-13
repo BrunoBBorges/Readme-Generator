@@ -90,13 +90,13 @@ ${answers.Description}
 ${answers.Installation}
 \`\`\`
 
-### Test Instructions
+### Testing
 ${answers.Testing}
 
 ### Usage
 ${answers.Usage}
 
-### Contribution Guidelines
+### Contribution
 ${answers.Contribution}
 
 ### License

@@ -19,13 +19,13 @@ A small app to make professional looking readme's
 npm i myapp
 ```
 
-### Test Instructions
+### Testing
 npm run test
 
 ### Usage
 Run node index.js in terminal and follow prompts as detailed as possible 
 
-### Contribution Guidelines
+### Contribution
 any contributions are welcome with a pull request
 
 ### License
